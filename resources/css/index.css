@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: blue;
+    position: relative;
+    left: 15%;
+    
+  }
+
+  h1:hover {
+    color: red;
+  }
+  
+  .greets ul {
+    list-style-type: none;
+  }
+
+  .smaller {
+    height: 500px;
+    width: 700px;
+  }
+
+  
+  p,
+   li {
+    font-size: 18px;
+    position: relative;
+    bottom: 20px;
+    left: 15%;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
+ 
+ 
